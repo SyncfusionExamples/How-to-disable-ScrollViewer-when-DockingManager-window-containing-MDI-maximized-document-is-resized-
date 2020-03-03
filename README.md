@@ -1,0 +1,1 @@
+# How-to-disable-ScrollViewer-when-DockingManager-window-containing-MDI-maximized-document-is-resized-
